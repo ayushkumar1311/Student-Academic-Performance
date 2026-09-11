@@ -14,4 +14,5 @@ Duplicate Handling: Identified and removed duplicate entries using .drop_duplica
 Dataset Shape & Types: Inspected data distributions and types across demographic, behavioral, and academic variables.
 
 Conclusion
+
 Prior period grades ($G1$ and $G2$) serve as the strongest predictors of final student success ($G3$). However, behavioral factors—specifically weekly study time, past failures, class attendance, and lifestyle habits—play a critical role in determining performance trajectories. Machine learning models demonstrate that even on Day 1, behavioral indicators can reliably classify at-risk students, enabling educators to move from reactive grading to proactive student support.
